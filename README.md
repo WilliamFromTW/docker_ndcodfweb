@@ -18,7 +18,7 @@ vi /etc/ndcodfweb/ndcodfweb.xml
 <host desc="Regex pattern of hostname to allow or deny." allow="true">odf\.nat\.gov\.tw</host>
 ````
 
-## knows bug
+## known bugs
 Fail to open chinese file name     
 
 for ndcodfweb 1.6    
